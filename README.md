@@ -39,8 +39,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+- Two mistakes and game over!!
 ![x](https://i.imgur.com/lPb2etf.gif)
+
+- Random pattern
 ![x](https://i.imgur.com/C9YsVN9.gif)
+
+- Complete game
+![x](https://i.imgur.com/koX1dJl.gif)
+
+
 
 
 
